@@ -1,0 +1,14 @@
+ul.opt-inst-wrap {
+	list-style-type: none;
+	overflow: auto;
+}
+
+ul.opt-inst-wrap li {
+	margin: 5px;
+	float: left;
+	padding: 0;
+}
+
+ul.opt-inst-wrap li a {
+	padding: 0;
+}
